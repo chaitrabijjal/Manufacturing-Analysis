@@ -9,7 +9,7 @@ This project focuses on analyzing manufacturing data to evaluate operational per
 Manufacturing organizations often struggle to track production efficiency and identify bottlenecks due to fragmented data and lack of actionable insights. The goal of this project is to transform raw manufacturing data into meaningful insights that highlight inefficiencies, improve productivity, and support operational optimization.
 
 ## Data Set Used
-<a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/97fa7ab33fadeb0627e6dc63a714b90c63c4a80f/Manufacturing%20Dataset.xlsx">Manufacturing Dataset (Excel File).</a>
+Manufacturing Dataset<a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/97fa7ab33fadeb0627e6dc63a714b90c63c4a80f/Manufacturing%20Dataset.xlsx">Manufacturing Dataset (Excel File).</a>
 
 ## Methods
 - Data cleaning and preprocessing.
