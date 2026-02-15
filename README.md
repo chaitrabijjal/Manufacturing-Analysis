@@ -36,6 +36,8 @@ Manufacturing organizations often struggle to track production efficiency and id
 ## Model Output's
 Excel – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/2c2cd8ac3c46df296abb773d44e292918a86733a/Manufacturing%20dashboard.xlsx">Excel Dashboard.</a>
 
-SQL – 
-Power BI – 
+SQL – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/fb9761fac0cfb61dae59566c03706475e7b405dd/Manufacturing%20queries.sql">SQL Queries.</a>
+
+Power BI – <a href = "">Power BI Dashboard.</a>
+ 
 Power Query – 
