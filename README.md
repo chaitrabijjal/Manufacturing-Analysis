@@ -41,3 +41,28 @@ SQL – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/
 Power BI – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/4d66dd5d585b945b3d26f7ff3a3bb054e527a721/manufacturing%20dashboard.pbix">Power BI Dashboard.</a>
  
 Tableau –  <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/9b86f1cd91a3332ca3fa82a0fcd83fcfd468717d/Manufacturing%20dashboard.twbx">Tableau Dashboard.</a>
+
+## How to Run This Project
+-Download or clone the repository to your local system.
+
+-Open the dataset file (.csv / .xlsx) in your preferred tool (Excel, SQL, Power BI, or Tableau).
+
+-Import and clean the data if required.
+
+-Run the SQL queries or open the Power BI/Tableau dashboard file.
+
+-Explore the KPIs and insights using filters and interactive visuals.
+
+## Results & Conclusion
+The analysis provided clear visibility into manufacturing operations, helping identify inefficiencies, quality issues, and improvement opportunities. The dashboard enables stakeholders to monitor real‑time performance metrics and make informed operational decisions.
+
+## Future Work
+-Integrate real‑time manufacturing data
+
+-Add predictive analytics for defect and downtime forecasting
+
+-Include cost and profitability analysis
+
+-Enhance dashboard with role‑based views
+
+
