@@ -13,7 +13,10 @@ Manufacturing organizations often struggle to track production efficiency and id
 
 ## Methods
 -Data cleaning and preprocessing.
+
 -KPI definition and calculation (Production Efficiency, Defect Rate, Downtime %).
+
 -Time‑series and trend analysis.
+
 -Comparative analysis across plants, products, and shifts.
 -Interactive dashboard design for performance monitoring.
