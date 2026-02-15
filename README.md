@@ -61,6 +61,7 @@ Tableau – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/b
 
 ## Results & Conclusion
 The analysis provided clear visibility into manufacturing operations, helping identify inefficiencies, quality issues, and improvement opportunities. The dashboard enables stakeholders to monitor performance metrics and make informed operational decisions.
+
 ## Future Work
 - Integrate real‑time manufacturing data
 
@@ -69,11 +70,6 @@ The analysis provided clear visibility into manufacturing operations, helping id
 - Include cost and profitability analysis
 
 - Enhance dashboard with role‑based views
-
-## Business Impact
-- Improved visibility into plant-level performance
-- Identified operational inefficiencies
-- Supported data-driven production optimization
 
 
 
