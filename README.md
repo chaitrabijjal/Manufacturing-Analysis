@@ -19,4 +19,23 @@ Manufacturing organizations often struggle to track production efficiency and id
 -Time‑series and trend analysis.
 
 -Comparative analysis across plants, products, and shifts.
+
 -Interactive dashboard design for performance monitoring.
+
+## Key Insights
+-Identified high‑performing and underperforming production lines
+
+-Analyzed defect trends to highlight quality issues
+
+-Discovered peak and low production periods using time‑based analysis
+
+-Highlighted downtime patterns impacting overall efficiency
+
+-Enabled quick comparison of plant‑level performance
+
+## Model Output's
+Excel – 
+
+SQL – 
+Power BI – 
+Power Query – 
