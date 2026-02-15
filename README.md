@@ -34,7 +34,7 @@ Manufacturing organizations often struggle to track production efficiency and id
 -Enabled quick comparison of plant‑level performance
 
 ## Model Output's
-Excel – 
+Excel – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/2c2cd8ac3c46df296abb773d44e292918a86733a/Manufacturing%20dashboard.xlsx">Excel Dashboard.</a>
 
 SQL – 
 Power BI – 
