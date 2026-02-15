@@ -40,7 +40,7 @@ SQL – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/
 
 Power BI – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/4d66dd5d585b945b3d26f7ff3a3bb054e527a721/manufacturing%20dashboard.pbix">Power BI Dashboard.</a>
  
-Tableau –  <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/9b86f1cd91a3332ca3fa82a0fcd83fcfd468717d/Manufacturing%20dashboard.twbx">Tableau Dashboard.</a>
+Tableau – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/9b86f1cd91a3332ca3fa82a0fcd83fcfd468717d/Manufacturing%20dashboard.twbx">Tableau Dashboard.</a>
 
 ## How to Run This Project
 - Download or clone the repository to your local system.
@@ -53,6 +53,11 @@ Tableau –  <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/
 
 - Explore the KPIs and insights using filters and interactive visuals.
 
+## Business Impact
+- Improved visibility into plant-level performance
+- Identified operational inefficiencies
+- Supported data-driven production optimization
+
 ## Results & Conclusion
 The analysis provided clear visibility into manufacturing operations, helping identify inefficiencies, quality issues, and improvement opportunities. The dashboard enables stakeholders to monitor performance metrics and make informed operational decisions.
 ## Future Work
@@ -63,5 +68,11 @@ The analysis provided clear visibility into manufacturing operations, helping id
 - Include cost and profitability analysis
 
 - Enhance dashboard with role‑based views
+
+## Business Impact
+- Improved visibility into plant-level performance
+- Identified operational inefficiencies
+- Supported data-driven production optimization
+
 
 
