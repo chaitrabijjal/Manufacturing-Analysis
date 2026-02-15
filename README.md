@@ -38,6 +38,6 @@ Excel – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blo
 
 SQL – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/fb9761fac0cfb61dae59566c03706475e7b405dd/Manufacturing%20queries.sql">SQL Queries.</a>
 
-Power BI – <a href = "">Power BI Dashboard.</a>
+Power BI – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/4d66dd5d585b945b3d26f7ff3a3bb054e527a721/manufacturing%20dashboard.pbix">Power BI Dashboard.</a>
  
-Power Query – 
+Tableau –  <a href = "">Tableau Dashboard.</a>
