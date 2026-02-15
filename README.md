@@ -1,4 +1,6 @@
 # Manufacturing-Analysis
+An end-to-end data analytics project analyzing manufacturing performance using SQL, Excel, Power BI, and Tableau.
+
 ## Project Objective
 To analyze manufacturing production data and identify efficiency gaps, quality issues, and operational bottlenecks using KPI-driven dashboards.
 
@@ -35,8 +37,11 @@ Manufacturing Dataset – <a href="https://github.com/chaitrabijjal/Manufacturin
 
 ## Business Impact
 - Improved visibility into plant-level performance and production efficiency
+  
 - Identified operational inefficiencies and quality gaps
+  
 - Supported data-driven decision-making for production optimization
+  
 - Enabled proactive monitoring of downtime and defect trends
 
 ## Dashboard Files
