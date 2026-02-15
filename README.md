@@ -12,8 +12,8 @@ Manufacturing organizations often struggle to track production efficiency and id
 <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/97fa7ab33fadeb0627e6dc63a714b90c63c4a80f/Manufacturing%20Dataset.xlsx">Manufacturing Analysis Data.</a>
 
 ## Methods
-*Data cleaning and preprocessing
-*KPI definition and calculation (Production Efficiency, Defect Rate, Downtime %)
-*Time‑series and trend analysis
-*Comparative analysis across plants, products, and shifts
-*Interactive dashboard design for performance monitoring
+-Data cleaning and preprocessing
+-KPI definition and calculation (Production Efficiency, Defect Rate, Downtime %)
+-Time‑series and trend analysis
+-Comparative analysis across plants, products, and shifts
+-Interactive dashboard design for performance monitoring
