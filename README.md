@@ -40,4 +40,4 @@ SQL – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/
 
 Power BI – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/4d66dd5d585b945b3d26f7ff3a3bb054e527a721/manufacturing%20dashboard.pbix">Power BI Dashboard.</a>
  
-Tableau –  <a href = "">Tableau Dashboard.</a>
+Tableau –  <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/9b86f1cd91a3332ca3fa82a0fcd83fcfd468717d/Manufacturing%20dashboard.twbx">Tableau Dashboard.</a>
