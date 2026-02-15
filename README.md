@@ -33,6 +33,12 @@ Manufacturing Dataset – <a href="https://github.com/chaitrabijjal/Manufacturin
 
 - Enabled quick comparison of plant‑level performance
 
+## Business Impact
+- Improved visibility into plant-level performance and production efficiency
+- Identified operational inefficiencies and quality gaps
+- Supported data-driven decision-making for production optimization
+- Enabled proactive monitoring of downtime and defect trends
+
 ## Dashboard Files
 Excel – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/blob/2c2cd8ac3c46df296abb773d44e292918a86733a/Manufacturing%20dashboard.xlsx">Excel Dashboard.</a>
 
@@ -52,11 +58,6 @@ Tableau – <a href = "https://github.com/chaitrabijjal/Manufacturing-Analysis/b
 - Run the SQL queries or open the Power BI/Tableau dashboard file.
 
 - Explore the KPIs and insights using filters and interactive visuals.
-
-## Business Impact
-- Improved visibility into plant-level performance
-- Identified operational inefficiencies
-- Supported data-driven production optimization
 
 ## Results & Conclusion
 The analysis provided clear visibility into manufacturing operations, helping identify inefficiencies, quality issues, and improvement opportunities. The dashboard enables stakeholders to monitor performance metrics and make informed operational decisions.
