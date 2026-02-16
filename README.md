@@ -76,5 +76,13 @@ The analysis provided clear visibility into manufacturing operations, helping id
 
 - Enhance dashboard with role‑based views
 
+  **Chaitra Bijjal**  
+Data Analyst  
+
+- Email: chaitrabijjal15@gmail.com
+
+- [LinkedIn](https://www.linkedin.com/in/chaitra-bijjal-16577a3a9)  
+
+
 
 
